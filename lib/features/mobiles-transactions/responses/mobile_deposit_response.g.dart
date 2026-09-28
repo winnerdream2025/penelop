@@ -1,0 +1,25 @@
+// GENERATED CODE - DO NOT MODIFY BY HAND
+
+part of 'mobile_deposit_response.dart';
+
+// **************************************************************************
+// JsonSerializableGenerator
+// **************************************************************************
+
+MobileDepositResponse _$MobileDepositResponseFromJson(
+  Map<String, dynamic> json,
+) => MobileDepositResponse(
+  message: json['message'] as String,
+  status: json['status'] as bool,
+  data: json['data'] == null
+      ? null
+      : MobileDepositData.fromJson(json['data'] as Map<String, dynamic>),
+);
+
+Map<String, dynamic> _$MobileDepositResponseToJson(
+  MobileDepositResponse instance,
+) => <String, dynamic>{
+  'message': instance.message,
+  'status': instance.status,
+  'data': instance.data,
+};

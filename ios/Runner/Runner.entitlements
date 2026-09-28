@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<!-- development for Debug runs on device; Xcode's automatic signing flips
+	     this to production at archive/export time when distributing. -->
+	<key>aps-environment</key>
+	<string>development</string>
+</dict>
+</plist>

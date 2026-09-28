@@ -1,0 +1,137 @@
+name: corrispay
+description: "A new Flutter project."
+
+publish_to: 'none'
+
+version: 2.3.10+12
+
+environment:
+  sdk: ^3.9.2
+
+dependency_overrides:
+  rive: ^0.14.5
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+  flutter_svg: ^2.2.3
+  badges: ^3.1.2
+  flutter_localizations:
+    sdk: flutter
+  gap: ^3.0.1
+  pinput: ^6.0.1
+  onboarding: ^4.0.2
+  local_auth: ^3.0.0
+  get_storage: ^2.1.1
+  qr_flutter: ^4.1.0
+  splash_master: any
+  json_annotation: ^4.9.0
+  dio: ^5.9.1
+  chopper: ^8.4.0
+  flutter_riverpod: ^3.1.0
+  riverpod_annotation: ^4.0.0
+  riverpod: ^3.1.0
+  another_flushbar: ^1.12.32
+  firebase_core: ^4.4.0
+  firebase_messaging: ^16.1.1
+  firebase_analytics: ^12.1.2
+  flutter_local_notifications: ^20.0.0
+  intl: ^0.20.2
+  http: ^1.6.0
+  get_time_ago: ^2.3.2
+  socket_io_client: ^3.1.4
+  screenshot: ^3.0.0
+  path_provider: ^2.1.5
+  gal: ^2.3.2
+  package_info_plus: ^9.0.1
+  url_launcher: ^6.3.2
+  flutter_contacts: ^2.0.2
+  permission_handler: ^12.0.1
+  mobile_scanner: ^7.2.1
+  image_picker: ^1.2.2
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^6.0.0
+  custom_lint: ^0.8.0
+  json_serializable: ^6.11.0
+  build_runner: ^2.7.1
+  chopper_generator: ^8.4.0
+  riverpod_generator: ^4.0.0+1
+
+
+
+flutter:
+
+  uses-material-design: true
+  generate: true
+
+
+  assets:
+    - assets/icons/
+    - assets/images/
+    - assets/flags/
+
+
+
+  fonts:
+    - family: Roboto
+      fonts:
+        - asset: assets/fonts/Roboto-Regular.ttf
+        - asset: assets/fonts/Roboto-Italic.ttf
+        - asset: assets/fonts/Roboto-Bold.ttf
+        - asset: assets/fonts/Roboto-Light.ttf
+        - asset: assets/fonts/Roboto-Medium.ttf
+        - asset: assets/fonts/Roboto-SemiBold.ttf
+
+    - family: Manjari
+      fonts:
+        - asset: assets/fonts/Manjari-Bold.ttf
+        - asset: assets/fonts/Manjari-Regular.ttf
+
+    - family: Manrope
+      fonts:
+        - asset: assets/fonts/Manrope/Manrope-Bold.ttf
+        - asset: assets/fonts/Manrope/Manrope-Regular.ttf
+        - asset: assets/fonts/Manrope/Manrope-Light.ttf
+        - asset: assets/fonts/Manrope/Manrope-Medium.ttf
+        - asset: assets/fonts/Manrope/Manrope-SemiBold.ttf
+
+
+
+splash_master:
+  # Use to specifies the color for the splash screen
+  color: '#00616B'
+  # Use to specifies the splash image
+  image: 'assets/images/logo_square_white.png'
+  # Provides content mode for splash image in iOS
+  # iOS content mode options: scaleToFill, scaleAspectFit, scaleAspectFill, redraw, center, top, bottom,
+  # left, right, topLeft, topRight, bottomLeft, bottomRight.
+  ios_content_mode: 'center'
+  # Provides gravity for splash image in Android
+  # Android gravity options: center, clip_horizontal, clip_vertical, fill_horizontal, fill, center_vertical,
+  # bottom, fill_vertical, center_horizontal, top, end, left, right, start
+  android_gravity: 'center'
+
+  ios_background_content_mode: 'scaleToFill'
+  # Provides gravity for background image in Android
+  # Android gravity options: center, clip_horizontal, clip_vertical, fill_horizontal, fill, center_vertical,
+  # bottom, fill_vertical, center_horizontal, top, end, left, right, start
+  android_background_image_gravity: 'fill'
+  # Use to specifies image for android in dark mode
+  image_dark_android: 'assets/images/logo_square_white.png'
+  # Provides gravity for splash image for Android in dark mode
+  android_dark_gravity_key: 'center'
+  # Use to specifies the color for the splash screen for Android in dark mode
+  color_dark_android: '#00616B'
+  # Section to specifies the configuration for the splash in Android 12+
+  android_12_and_above:
+    # Provides the background color of splash screen
+    color: '#00616B'
+    # Provides custom icon to replace the default app_info icon
+    image: 'assets/images/logo_square_white.png'

@@ -1,0 +1,839 @@
+{
+  "onboardingTitleOne": "Simple, rapide et sécurisé",
+  "@onboardingTitleOne": {
+    "description": "Titre du premier écran d'onboarding"
+  },
+
+  "onboardingTitleTwo": "Transactions internationales",
+  "@onboardingTitleTwo": {
+    "description": "Titre du deuxième écran d'onboarding"
+  },
+
+  "onboardingDescriptionOne": "Transférez de l'argent rapidement avec des transactions totalement sécurisées.",
+  "@onboardingDescriptionOne": {
+    "description": "Description du premier écran d'onboarding"
+  },
+
+  "onboardingDescriptionTwo": "Profitez d'une liberté totale dans la gestion de vos finances, avec des frais réduits sur les transactions internationales.",
+  "@onboardingDescriptionTwo": {
+    "description": "Description du deuxième écran d'onboarding"
+  },
+
+  "next": "Suivant",
+  "@next": {
+    "description": "Bouton pour passer à l'écran suivant"
+  },
+
+  "start": "Commencer",
+  "@start": {
+    "description": "Bouton pour terminer l'onboarding"
+  },
+  "login": "SE CONNECTER",
+  "@login": {
+    "description": "Texte du bouton pour se connecter"
+  },
+
+  "register": "S'INSCRIRE",
+  "@register": {
+    "description": "Texte du bouton pour s'inscrire"
+  },
+
+  "or": "OU",
+  "@or": {
+    "description": "Texte séparateur ou"
+  },
+
+  "continueWithGoogle": "CONTINUER AVEC GOOGLE",
+  "@continueWithGoogle": {
+    "description": "Texte du bouton pour continuer avec Google"
+  },
+
+  "french": "Français",
+  "@french": {
+    "description": "Texte du choix de langue français"
+  },
+  "loginTitle": "Se connecter",
+  "@loginTitle": {
+    "description": "Titre de la page de connexion"
+  },
+
+  "email": "Email",
+  "@email": {
+    "description": "Libellé du champ email"
+  },
+
+  "password": "Mot de passe",
+  "@password": {
+    "description": "Libellé du champ mot de passe"
+  },
+
+  "loginButton": "Connexion",
+  "@loginButton": {
+    "description": "Bouton de validation de la connexion"
+  },
+
+  "forgotPassword": "Mot de passe oublié ?",
+  "@forgotPassword": {
+    "description": "Lien mot de passe oublié"
+  },
+
+  "orLoginWith": "OU CONNECTEZ-VOUS AVEC",
+  "@orLoginWith": {
+    "description": "Séparateur pour les méthodes alternatives de connexion"
+  },
+
+  "emailMode": "E-MAIL",
+  "@emailMode": {
+    "description": "Bouton de connexion par email"
+  },
+
+  "phoneMode": "NUMÉRO DE TÉLÉPHONE",
+  "@phoneMode": {
+    "description": "Bouton de connexion par numéro de téléphone"
+  },
+
+  "google": "GOOGLE",
+  "@google": {
+    "description": "Connexion avec Google"
+  },
+  "forgotPasswordTitle": "Mot de passe oublié",
+  "@forgotPasswordTitle": {
+    "description": "Titre de la page mot de passe oublié"
+  },
+
+  "useEmail": "UTILISER EMAIL",
+  "@useEmail": {
+    "description": "Basculer vers la récupération par email"
+  },
+
+  "usePhoneNumber": "UTILISER LE NUMÉRO DE TÉLÉPHONE",
+  "@usePhoneNumber": {
+    "description": "Basculer vers la récupération par téléphone"
+  },
+
+  "next": "Suivant",
+  "@next": {
+    "description": "Bouton suivant"
+  },
+  "confirmOtpTitle": "Confirmer votre numéro",
+  "@confirmOtpTitle": {
+    "description": "Titre de la page de confirmation du code OTP"
+  },
+
+  "confirmOtpDescription": "Nous avons envoyé un code par SMS. Saisissez-le pour continuer.",
+  "@confirmOtpDescription": {
+    "description": "Description expliquant l'envoi du code OTP"
+  },
+
+  "confirm": "Confirmer",
+  "@confirm": {
+    "description": "Bouton de confirmation du code OTP"
+  },
+  "resendCode": "RENVOYER LE CODE",
+  "@resendCode": {
+    "description": "Texte permettant de renvoyer le code OTP"
+  },
+  "resetPasswordTitle": "Réinitialiser votre mot de passe",
+  "@resetPasswordTitle": {
+    "description": "Titre de la page de réinitialisation du mot de passe"
+  },
+
+  "password": "Mot de passe",
+  "@password": {
+    "description": "Label et placeholder du champ mot de passe"
+  },
+
+  "confirmPassword": "Confirmer votre mot de passe",
+  "@confirmPassword": {
+    "description": "Label et placeholder du champ confirmation du mot de passe"
+  },
+
+  "confirm": "Confirmer",
+  "@confirm": {
+    "description": "Bouton de confirmation"
+  },
+  "phoneTitle": "Téléphone",
+  "@phoneTitle": {
+    "description": "Titre de la page téléphone"
+  },
+
+  "country": "Pays",
+  "@country": {
+    "description": "Label du champ pays"
+  },
+
+  "phoneNumber": "Numéro de téléphone",
+  "@phoneNumber": {
+    "description": "Label et placeholder du numéro de téléphone"
+  },
+
+  "next": "Suivant",
+  "@next": {
+    "description": "Bouton suivant"
+  },
+  "personalInfoTitle": "Informations personnelles",
+  "lastName": "Nom",
+  "firstName": "Prénom",
+  "email": "Email",
+  "next": "Suivant",
+  "securityTitle": "Sécurisez votre compte",
+  "password": "Mot de passe",
+  "confirmPassword": "Confirmer votre Mot de passe",
+  "confirm": "Confirmer",
+  "addMoney": "Ajouter",
+  "send": "Envoyer",
+  "receive": "Recevoir",
+  "exchange": "Échanger",
+  "withdraw": "Retirer",
+  "transactions": "Transactions",
+  "viewAll": "Voir tout",
+  "enterAmountToRecharge": "Entrez le montant à recharger",
+  "currency": "FCFA",
+  "availableBalance": "Solde disponible",
+  "userName": "{name}",
+  "chooseRechargeMethod": "Choisissez la méthode de recharge",
+  "rechargeMethod": "Méthode de recharge",
+  "selectRechargeMethod": "Sélectionnez une méthode de recharge",
+  "fees": "Frais",
+  "currency": "FCFA",
+  "confirmYourNumber": "Confirmez votre numéro",
+  "country": "Pays",
+  "mobileMoney": "Mobile Money",
+  "phoneNumber": "Numéro de téléphone",
+  "phoneNumberHint": "34567890",
+  "confirm": "Confirmer",
+  "selectMobileMoneyType": "Sélectionnez le type de Mobile Money",
+  "fees": "Frais",
+  "currency": "FCFA",
+  "mobileMoney": "Mobile Money",
+  "selectMobileMoneyType": "Sélectionnez le type de Mobile Money",
+  "fees": "Frais",
+  "currency": "FCFA",
+  "fees": "Frais",
+  "currency": "FCFA",
+  "currency": "FCFA",
+  "fees": "Frais",
+  "willBeDebited": "Vous serez débité sur votre compte {account} ({phone}) de {total} FCFA",
+  "recharge": "Recharger",
+  "rechargeSummary": "Recharge de {amount} {currency} via {mobileMoney} ({phone})",
+  "status": "Statut",
+  "pending": "En attente",
+  "sentBy": "Envoyé par",
+  "sentVia": "Envoyé via",
+  "amount": "Montant",
+  "fees": "Frais",
+  "account": "Compte",
+  "settings": "Paramètres",
+  "personalInfo": "Informations personnelles",
+  "country": "Pays",
+  "security": "Sécurité",
+  "changePassword": "Modifier votre mot de passe",
+  "changePinCode": "Changer votre code de sécurité",
+  "business": "Business",
+  "merchantAccount": "Compte Marchand",
+  "preferences": "Préférences",
+  "privacyPolicy": "Politique de confidentialité",
+  "language": "Langue",
+  "logout": "Se déconnecter",
+  "userNameFull": "Nom complet",
+  "phoneNumber": "Numéro de téléphone",
+  "createPinCode": "Créez votre code PIN",
+  "enterPinCode": "Entrez votre code PIN",
+  "personalInformation": "Informations personnelles",
+  "update": "Modifier",
+  "updatePasswordTitle": "Modifier votre mot de passe",
+  "currentPassword": "Votre mot de passe actuel",
+  "newPassword": "Nouveau mot de passe",
+  "confirmPassword": "Confirmer votre mot de passe",
+  "confirm": "Confirmer",
+  "sendMoney": "Envoyer de l'argent",
+  "whatAmount": "Quel montant ?",
+  "toWho": "À qui ?",
+  "next": "Suivant",
+  "sendMoneyWarning": "Votre envoi d'argent sera débité depuis Cauris {account}. Il vous restera {balance} {currency}",
+  "newReceiver": "Nouveau Bénéficiaire",
+  "accountNumber": "Numéro de compte",
+  "confirm": "Confirmer",
+  "chooseReceiver": "Choisissez un bénéficiaire",
+  "searchReceiver": "Rechercher un destinataire",
+  "addNewReceiver": "Ajouter un nouveau destinataire",
+  "savedReceivers": "Destinataires enregistrés",
+  "verificationSuccessTitle": "Vérification réussie",
+  "verificationSuccessMessage": "Votre transfert d'argent a été effectué avec succès.",
+  "continueButton": "Continuer",
+  "pay": "Payer",
+  "fingerPrint": "Empreinte digitale",
+  "enable": "Activé",
+  "disable": "Désactivé",
+  "english": "Anglais",
+  "not_informed": "Non renseigné",
+  "add": "Ajouter",
+  "enter_your_email": "Entrez votre email",
+  "email_verification": "Vérification d'adresse email",
+  "email_verification_code_sent": "Un code de vérification a été envoyé à votre adresse email.",
+  "resend_code": "Renvoyer le code",
+  "enter_code": "Entrez le code",
+  "enter_valid_email": "Entrez une adresse email valide",
+  "required_code_pin": "Pour sécuriser votre compte, définissez un code PIN. Sinon, certaines actions seront bloquées.",
+  "request": "Demander",
+  "withdrawal": "Retrait",
+  "transaction_error": "Erreur lors du chargement des transactions.",
+  "notification_body": "Vous avez reçu un virement de {amount} de {sender}.",
+  "notification_title": "Virement reçu",
+  "insuficient_amount": "Montant insuffisant.",
+  "common_error": "Il semble que votre connexion Internet soit instable. Veuillez vérifier votre connexion et réessayer.",
+  "retry": "Réessayez",
+  "add_beneficiary": "Ajouter un bénéficiaire",
+  "add_beneficiary_text": "Ajoutez un bénéficiaire en utilisant le bouton ci-dessous.",
+  "verification": "Vérification",
+  "confirm_beneficiary": "Confirmer le bénéficiaire",
+  "confirm_beneficiary_text": "Assurez-vous que les informations sont correctes avant de continuer.",
+  "not_correct": "Non, ce n'est pas correct.",
+  "correct_information": "Oui, c'est correct.",
+  "confirm_beneficiary_title": "Vérification",
+  "completed_name": "Nom complet",
+  "phone_number": "Numéro de téléphone",
+  "confirm_transfer": "Confirmer le transfert",
+  "sender": "Expéditeur",
+  "account_number": "Numéro de compte",
+  "amount_to_be_withdrawn": "Montant à retirer",
+  "transfer_fees": "Frais de transfert",
+  "transfer_amount": "Montant du transfert",
+  "recipient": "Destinataire",
+  "firstname": "Prénom",
+  "lastname": "Nom",
+  "amount_to_be_received": "Montant à recevoir",
+  "which_amount": "Pour quel montant ?",
+  "qr_code_user_text": "Ce QR Code appartient à {name}.",
+  "qr_code_message": "Présentez le QR Code ci-dessous à un utilisateur Cauris Pay pour recevoir le montant indiqué.",
+  "qr_code_title": "QR Code",
+  "finish": "Terminer",
+  "confirm_withdrawal": "Confirmer le retrait",
+  "withdrawal_fees": "Frais de retrait",
+  "withdrawal_amount": "Montant du retrait",
+  "netWork": "Réseau",
+  "validate": "Valider",
+  "cancel": "Annuler",
+  "amount_request": "Montant demandé",
+  "amount_request_text": "{name} vous demande une somme de {amount} {currency}.",
+  "deposit": "Depot",
+  "transfer": "Transfert",
+  "failed": "Echec",
+  "download": "Télecharger",
+  "notif_received": "Reçu {amount} {currency} de {name}",
+  "notif_sent": "Envoyé {amount} {currency} à {name}",
+  "notif_deposit": "Dépôt de {amount} {currency} via {name}",
+  "notif_withdrawal": "Retrait de {amount} {currency} vers {name}",
+  "loading": "Chargement ....",
+  "termsTextStart": "En utilisant cette application, vous acceptez nos ",
+  "@termsTextStart": { "description": "Début de la phrase des conditions" },
+
+  "termsOfUse": "Conditions d'utilisation",
+  "@termsOfUse": { "description": "Texte du lien conditions" },
+
+  "and": " et notre ",
+  "@and": { "description": "Connexion entre conditions et politique" },
+
+  "privacyPolicyText": "Politique de confidentialité",
+  "@privacyPolicyText": { "description": "Texte du lien politique" },
+  "loginWithPhone": "Connectez-vous avec votre numéro de téléphone.",
+  "loginWithEmail": "Connectez-vous avec votre adresse email.",
+  "forgotPasswordPhoneDescription": "Entrez votre numéro de téléphone pour recevoir un code de vérification.",
+  "forgotPasswordEmailDescription": "Entrez votre adresse email pour recevoir un code de vérification.",
+  "confirmEmailTitle": "Confirmez votre email",
+  "codeNotReceived": "Code non reçu ? ",
+  "resend": "Renvoyer",
+  "resendIn": "Renvoyer le code dans ",
+  "resetPasswordDescription": "Choisissez un nouveau mot de passe sécurisé pour votre compte.",
+  "passwordMismatch": "Les mots de passe ne correspondent pas",
+  "passwordMatch": "Les mots de passe correspondent",
+  "phoneDescription": "Entrez votre numéro de téléphone pour créer votre compte.",
+  "personalInfoDescription": "Renseignez vos informations personnelles pour créer votre compte.",
+  "securityDescription": "Créez un mot de passe sécurisé pour protéger votre compte.",
+  "passwordMismatch": "Les mots de passe ne correspondent pas",
+  "passwordMatch": "Les mots de passe correspondent",
+  "pinDescription": "Sécurisez votre compte avec un code à 6 chiffres.",
+  "confirmPin": "Ressaisissez votre code pour confirmer",
+  "pinUsageHint": "Vous devrez le saisir à chaque transaction",
+  "pinMismatch": "Les codes PIN ne correspondent pas",
+  "helloUser": "Bonjour, {name} 👋",
+  "pinIncorrect": "Code PIN incorrect. Veuillez réessayer.",
+  "forgotPin": "Code PIN oublié ?",
+  "forgotPinTitle": "Code PIN oublié ?",
+  "forgotPinDescription": "Entrez votre numéro de téléphone pour recevoir un code de vérification et réinitialiser votre PIN.",
+  "rememberPin": "Je me souviens de mon code PIN",
+  "loginHere": "Connexion",
+  "codeNotReceived": "Code non reçu ? ",
+  "resend": "Renvoyer",
+  "resendIn": "Renvoyer le code dans ",
+  "newPinTitle": "Nouveau code PIN",
+  "confirmPinTitle": "Confirmer le code PIN",
+  "newPinDescription": "Choisissez un nouveau code à 6 chiffres",
+  "confirmPinDescription": "Ressaisissez votre nouveau code pour confirmer",
+  "pinMismatch": "Les codes PIN ne correspondent pas",
+  "create": "Créer",
+  "fingerprintDescription": "Activez ou désactivez l'authentification par empreinte digitale.",
+  "chooseLanguageDescription": "Choisissez la langue de l'application.",
+  "personalInfoDescription": "Vos informations personnelles.",
+  "addEmailDescription": "Ajoutez une adresse email à votre compte pour plus de sécurité.",
+  "validEmail": "Adresse email valide",
+  "resendCodeIn": "Renvoyer le code dans",
+  "notifications": "Notifications",
+  "notificationsSubtitle": "Vos dernières activités",
+  "noNotifications": "Aucune notification",
+  "notificationsEmptyDescription": "Vos activités apparaîtront ici",
+  "hello": "Bonjour 👋",
+  "simpleSend": "Envoi Simple",
+  "withdrawTo": "Retrait vers",
+  "history": "Historique",
+  "merchant": "Marchand",
+  "availableBalanceLabel": "Solde disponible",
+  "withdrawTo": "Retrait vers",
+  "history": "Historique",
+  "merchant": "Marchand",
+
+  "receiveQrTitle": "Recevoir l'argent via QR Code",
+  "qrSimple": "QR simple",
+  "qrSimpleDesc": "L'envoyeur saisit le montant",
+  "qrWithAmount": "QR + montant",
+  "qrWithAmountDesc": "Montant prédéfini à scanner",
+
+  "sendQrTitle": "Envoyer l'argent en scannant un QR Code",
+  "scanQrSimple": "QR simple",
+  "scanQrSimpleDesc": "Scannez le QR de votre contact",
+  "scanQrWithAmount": "QR avec montant",
+  "scanQrWithAmountDesc": "Montant inclus dans le QR",
+  "comingSoonTitle": "Espace Marchand",
+  "comingSoonDescription": "Nous préparons quelque chose de puissant pour vous. Cette fonctionnalité sera disponible très prochainement.",
+  "comingSoonPayments": "Paiements",
+  "comingSoonStats": "Statistiques",
+  "comingSoonQr": "QR Marchand",
+  "understood": "Compris",
+  "appTagline": "VOTRE PORTEFEUILLE DIGITAL",
+  "versionLabel": "Version {version}",
+
+  "errorConnectionTitle": "Erreur de connexion",
+  "errorGenericTitle": "Oups !",
+
+  "errorConnectionMessage": "Veuillez vérifier votre connexion Internet et réessayer.",
+  "errorGenericMessage": "Il semble qu'il y ait eu un petit contretemps. Veuillez réessayer dans un instant.",
+
+  "retry": "Réessayer",
+  "updateRequiredTitle": "Mise à jour\nrequise",
+  "newVersionAvailableTitle": "Nouvelle version\ndisponible",
+  "updateRequiredDescription": "Cette mise à jour est nécessaire\npour continuer à utiliser Caurispay.",
+  "updateAvailableDescription": "Mettez à jour Caurispay pour\nbénéficier des dernières\naméliorations et corrections.",
+  "currentVersion": "Actuelle",
+  "newVersion": "Nouvelle",
+  "ignoreForNow": "Ignorer pour l'instant",
+  "update": "Mettre à jour",
+  "versionLabel": "Version {version}",
+  "connectionErrorTitle": "Problème de connexion",
+  "connectionErrorDescription": "Nous n'avons pas pu établir une connexion. Veuillez vérifier votre connexion Internet.\nAppuyez sur le bouton ci-dessous pour réessayer.",
+  "retry": "Réessayer",
+  "enterAmountToRecharge": "Entrez le montant à recharger",
+  "mobileRechargeTitle": "Recharge Mobile Money",
+  "amountLabel": "Montant : {amount}",
+  "operator": "Opérateur",
+  "phoneExample": "Ex: 77 123 45 67",
+  "phoneLengthIndicator": "{current} / {max} chiffres",
+  "mobileRecharge": "Recharge mobile",
+  "netAmount": "Net",
+  "fees": "Frais",
+  "phoneNumber": "Numéro",
+  "country": "Pays",
+  "operator": "Opérateur",
+  "confirmRecharge": "Confirmer la recharge",
+  "securePayment": "Paiement sécurisé",
+  "chooseCountry": "Choisissez un pays",
+  "search": "Rechercher...",
+  "updatePasswordTitle": "Modifier le mot de passe",
+  "updatePasswordSubtitle": "Entrez votre mot de passe actuel puis choisissez un nouveau.",
+  "currentPassword": "Mot de passe actuel",
+  "newPassword": "Nouveau mot de passe",
+  "confirmPassword": "Confirmer le mot de passe",
+  "confirm": "Confirmer",
+  "enterWithdrawalAmount": "Entrez le montant à retirer de votre portefeuille",
+  "digits": "chiffres",
+  "withdrawal_confirmation": "Confirmation de retrait",
+  "net": "Net",
+  "fees": "Frais",
+  "secure_payment": "Paiement sécurisé",
+  "confirm_identity_withdrawal": "Confirmez votre identité pour valider le retrait",
+  "invalid_pin_code": "Code PIN incorrect. Veuillez réessayer.",
+  "forgot_pin_code": "Code PIN oublié ?",
+  "amount": "Montant",
+  "balance": "Solde",
+  "recipient": "Destinataire",
+  "enter_receiver_phone": "Entrez le numéro de téléphone de la personne à qui vous souhaitez envoyer de l'argent",
+  "verification": "Vérification",
+  "confirm_beneficiary_text": "Veuillez confirmer les informations du bénéficiaire avant de continuer",
+  "transfer": "Transfert",
+  "net": "Net",
+  "fees": "Frais",
+  "secure_payment": "Paiement sécurisé",
+  "confirm_identity_transaction": "Confirmez votre identité pour valider la transaction",
+  "invalid_pin": "Code PIN incorrect. Veuillez réessayer.",
+  "forgot_pin": "Code PIN oublié ?",
+  "my_qr_code": "Mon QR Code",
+  "secured_by": "Sécurisé par",
+  "qr_code_description": "Partagez ce QR code avec la personne qui souhaite vous envoyer de l’argent. Elle pourra le scanner pour initier le paiement rapidement et en toute sécurité.",
+  "enter_requested_amount": "Entrez le montant à demander",
+  "payment_request": "Demande de paiement",
+  "scan_to_send": "Scannez pour envoyer {amount} {currency}",
+  "secured_by": "Sécurisé par",
+  "payment_request": "Demande de paiement",
+  "scan_to_send": "Scannez pour envoyer {amount} {currency}",
+  "secured_by": "Sécurisé par",
+  "camera_permission_denied": "Accès à la caméra refusé",
+  "wrong_qr_code": "Mauvais QR code",
+  "qr_code_with_amount_error": "Ce QR code contient un montant. Pour l'utiliser, retournez sur l'écran d'envoi et choisissez \"QR avec montant\".",
+  "got_it": "Compris",
+  "scan_qr_simple_message": "Scannez le QR code du destinataire pour envoyer de l'argent rapidement et en toute sécurité.",
+  "qr_scan_instruction": "Scannez le QR code Simple du destinataire pour envoyer de l'argent rapidement et en toute sécurité.",
+  "camera_permission_denied": "Permission caméra refusée",
+  "wrong_qr_code": "Mauvais QR code",
+  "qr_scan_simple_warning": "Scanner le code qr simple de l'utilisateur sur lequel l'argent n'est pas dessus , vouserez chargé de renseigner le montant plutart",
+  "wrong_qr_code_description": "Ce QR code contient un montant. Utilisez l'écran adapté pour ce type de paiement.",
+  "understood": "Compris",
+  "qr_scan_aim": "Pointez vers le Qr CODE SIMPLE",
+  "qr_recipient_identified": "Destinataire identifié via QR code",
+  "recipient_label": "Destinataire",
+  "amount_label": "Montant",
+  "qr_recipient_identified": "Destinataire identifié via QR code",
+  "recipient_label": "Destinataire",
+  "amount_label": "Montant",
+  "verified": "verified",
+  "wrong_qr_code": "QR code invalide",
+  "qr_without_amount_error": "Veuillez scanner un QR code contenant un montant généré par le destinataire.",
+  "got_it": "Compris",
+  "wrong_qr_code": "QR code invalide",
+  "qr_without_amount_error": "Ce QR code n'est pas valide pour cette opération. Veuillez scanner un QR code avec montant généré par le destinataire.",
+  "got_it": "Compris",
+  "qr_invalid_title": "QR code non compatible",
+  "qr_requires_amount_message": "Pour continuer, scannez un QR code avec montant fourni par le destinataire.",
+  "got_it": "Compris",
+  "payment_request": "DEMANDE DE PAIEMENT",
+  "recipient": "Destinataire",
+  "confirm_payment": "Confirmer le paiement",
+  "wrong_qr_description_amount": "   'Ce QR code ne contient pas de montant. Pour l\\'utiliser, retournez sur l\\'écran d\\'envoi et choisissez \"QR avec montant\".'",
+  "qr_with_amount_description": "Vueillez scanner un qrcode avec montant de votre destinataire",
+  "success_operation": "Votre opération a été effectuée avec succès",
+  "history": "Historique",
+  "no_transactions": "Aucune transaction",
+  "no_transactions_desc": "Vos opérations apparaîtront ici",
+  "payment_request": "Demande de paiement",
+  "confirm_payment": "Confirmer le paiement",
+  "recipient": "Destinataire",
+  "understood": "Compris",
+  "wrong_qr_type_title": "Mauvais QR code",
+  "wrong_qr_type_desc": "Ce QR code ne contient pas de montant. Retournez sur l'écran d'envoi et choisissez \"QR du contact\".",
+  "verified": "Vérifié",
+  "tx_deposit": "Dépôt",
+  "tx_received": "Reçu",
+  "tx_withdrawal": "Retrait",
+  "tx_sent": "Envoyé",
+  "common_error": "\"Il semble que votre connexion Internet soit instable. Veuillez vérifier votre connexion et réessayer\",",
+  "transaction_detail": "Détail transaction",
+  "tx_detail_info": "Informations",
+  "tx_detail_name": "Nom",
+  "tx_detail_date": "Date",
+  "tx_detail_type": "Type",
+  "tx_detail_status": "Statut",
+  "tx_detail_reference": "Référence",
+  "tx_no_reference": "Aucune référence",
+  "tx_success": "Succès",
+  "tx_failed": "Échoué",
+  "copy": "Copier",
+  "copied": "Copié",
+  "qr_download_success": "QR code enregistré dans votre galerie",
+  "qr_download_error": "Échec du téléchargement, veuillez réessayer",
+  "downloading": "Téléchargement...",
+  "availableBalanceLabel": "Solde disponible",
+  "receiveQrTitle": "Recevoir de l'argent via QR Code",
+  "qrSimple": "QR Simple",
+  "qrSimpleDesc": "L'expéditeur saisit le montant",
+  "qrWithAmount": "QR + Montant",
+  "qrWithAmountDesc": "Montant prédéfini à scanner",
+  "sendQrTitle": "Envoyer de l'argent en scannant un QR Code",
+  "scanQrSimple": "QR Simple",
+  "scanQrSimpleDesc": "Scannez le QR de votre contact",
+  "scanQrWithAmount": "QR avec Montant",
+  "scanQrWithAmountDesc": "Montant inclus dans le QR",
+  "comingSoonTitle": "Espace Marchand",
+  "comingSoonDescription": "Nous vous préparons quelque chose de puissant. Cette fonctionnalité sera bientôt disponible.",
+  "comingSoonPayments": "Paiements",
+  "comingSoonStats": "Statistiques",
+  "comingSoonQr": "QR Marchand",
+  "understood": "Compris",
+  "appTagline": "VOTRE PORTEFEUILLE NUMÉRIQUE",
+  "versionLabel": "Version {version}",
+  "errorConnectionTitle": "Erreur de connexion",
+  "errorGenericTitle": "Oups !",
+  "errorConnectionMessage": "Veuillez vérifier votre connexion internet et réessayer.",
+  "errorGenericMessage": "Il semble y avoir un petit problème. Veuillez réessayer dans un instant.",
+  "updateRequiredTitle": "Mise à jour\nRequise",
+  "newVersionAvailableTitle": "Nouvelle version\nDisponible",
+  "updateRequiredDescription": "Cette mise à jour est nécessaire\npour continuer à utiliser Caurispay.",
+  "updateAvailableDescription": "Mettez à jour Caurispay pour\nprofiter des dernières\naméliorations et corrections.",
+  "currentVersion": "Actuelle",
+  "newVersion": "Nouvelle",
+  "ignoreForNow": "Ignorer pour l'instant",
+  "connectionErrorTitle": "Problème de connexion",
+  "connectionErrorDescription": "Nous n'avons pas pu établir de connexion. Veuillez vérifier votre connexion internet.\nAppuyez sur le bouton ci-dessous pour réessayer.",
+  "mobileRechargeTitle": "Recharge Mobile Money",
+  "amountLabel": "Montant : {amount}",
+  "operator": "Opérateur",
+  "phoneExample": "Ex: 77 123 45 67",
+  "phoneLengthIndicator": "{current} / {max} chiffres",
+  "mobileRecharge": "Recharge Mobile",
+  "netAmount": "Net",
+  "confirmRecharge": "Confirmer la recharge",
+  "securePayment": "Paiement sécurisé",
+  "chooseCountry": "Choisir un pays",
+  "search": "Rechercher...",
+  "updatePasswordSubtitle": "Entrez votre mot de passe actuel puis choisissez-en un nouveau.",
+  "enterWithdrawalAmount": "Entrez le montant à retirer de votre portefeuille",
+  "digits": "chiffres",
+  "withdrawal_confirmation": "Confirmation de retrait",
+  "net": "Net",
+  "secure_payment": "Paiement sécurisé",
+  "confirm_identity_withdrawal": "Confirmez votre identité pour valider le retrait",
+  "invalid_pin_code": "Code PIN incorrect. Veuillez réessayer.",
+  "forgot_pin_code": "Code PIN oublié ?",
+  "balance": "Solde",
+  "enter_receiver_phone": "Entrez le numéro de téléphone de la personne à qui vous souhaitez envoyer de l'argent",
+  "confirm_identity_transaction": "Confirmez votre identité pour valider la transaction",
+  "invalid_pin": "Code PIN incorrect. Veuillez réessayer.",
+  "my_qr_code": "Mon QR Code",
+  "secured_by": "Sécurisé par",
+  "qr_code_description": "Partagez ce QR code avec la personne qui souhaite vous envoyer de l'argent. Elle pourra le scanner pour initier le paiement rapidement et en toute sécurité.",
+  "enter_requested_amount": "Entrez le montant à demander",
+  "payment_request": "Demande de paiement",
+  "scan_to_send": "Scannez pour envoyer {amount} {currency}",
+  "camera_permission_denied": "Accès à la caméra refusé",
+  "wrong_qr_code": "Mauvais QR code",
+  "qr_code_with_amount_error": "Ce QR code contient un montant. Pour l'utiliser, retournez à l'écran d'envoi et choisissez \"QR avec Montant\".",
+  "got_it": "Compris",
+  "scan_qr_simple_message": "Scannez le QR code du destinataire pour envoyer de l'argent rapidement et en toute sécurité.",
+  "qr_scan_instruction": "Scannez le QR code Simple du destinataire pour envoyer de l'argent rapidement et en toute sécurité.",
+  "qr_scan_simple_warning": "Scannez le QR code simple de l'utilisateur ; vous serez invité à saisir le montant plus tard.",
+  "wrong_qr_code_description": "Ce QR code contient un montant. Utilisez l'écran approprié pour ce type de paiement.",
+  "qr_scan_aim": "Pointez vers le QR CODE SIMPLE",
+  "qr_recipient_identified": "Destinataire identifié via QR code",
+  "recipient_label": "Destinataire",
+  "amount_label": "Montant",
+  "verified": "Vérifié",
+  "qr_without_amount_error": "Veuillez scanner un QR code contenant un montant généré par le destinataire.",
+  "qr_invalid_title": "QR code incompatible",
+  "qr_requires_amount_message": "Pour continuer, scannez un QR code avec un montant fourni par le destinataire.",
+  "confirm_payment": "Confirmer le paiement",
+  "wrong_qr_description_amount": "Ce QR code ne contient pas de montant. Pour l'utiliser, retournez à l'écran d'envoi et choisissez 'Contact QR'.",
+  "qr_with_amount_description": "Veuillez scanner un QR code avec un montant de votre destinataire",
+  "success_operation": "Votre opération a été effectuée avec succès",
+  "no_transactions": "Aucune transaction",
+  "no_transactions_desc": "Vos opérations apparaîtront ici",
+  "wrong_qr_type_title": "Mauvais QR code",
+  "wrong_qr_type_desc": "Ce QR code ne contient pas de montant. Retournez à l'écran d'envoi et choisissez 'Contact QR'.",
+  "tx_deposit": "Dépôt",
+  "tx_received": "Reçu",
+  "tx_withdrawal": "Retrait",
+  "tx_sent": "Envoyé",
+  "transaction_detail": "Détail de la transaction",
+  "tx_detail_info": "Informations",
+  "tx_detail_name": "Nom",
+  "tx_detail_date": "Date",
+  "tx_detail_type": "Type",
+  "tx_detail_status": "Statut",
+  "tx_detail_reference": "Référence",
+  "tx_no_reference": "Aucune référence",
+  "tx_success": "Succès",
+  "tx_failed": "Échec",
+  "copy": "Copier",
+  "copied": "Copié",
+  "qr_download_success": "QR code enregistré dans votre galerie",
+  "qr_download_error": "Échec du téléchargement, veuillez réessayer",
+  "downloading": "Téléchargement...",
+  "support": "Support",
+  "support_hero_title": "Nous sommes là pour vous aider",
+  "support_hero_desc": "Notre équipe répond à toutes vos questions sur CaurisPay.",
+  "support_contact_label": "Nous contacter",
+  "support_phone_label": "Téléphone",
+  "support_email_label": "Email",
+  "support_address_label": "Adresse",
+  "support_headquarters": "Siège social",
+  "support_region": "Afrique de l'Ouest",
+  "support_website_btn": "Contacter via notre site web",
+  "back_to_home": "Retour à l'accueil",
+
+  "qrCodeSectionTitle": "QR code",
+
+  "qrFreeAmountTitle": "Recevoir un montant libre",
+  "qrFreeAmountDesc": "L'expéditeur saisit le montant",
+
+  "qrFixedAmountTitle": "Recevoir un montant fixe",
+  "qrFixedAmountDesc": "Le montant est déjà défini",
+
+  "scanToPayTitle": "Scanner",
+  "scanToPayDesc": "Scannez le code du destinataire",
+
+  "paymentRequestBannerTitle": "{name} vous demande {amount}",
+  "@paymentRequestBannerTitle": {
+    "placeholders": {
+      "name": { "type": "String" },
+      "amount": { "type": "String" }
+    }
+  },
+
+  "paymentRequestBannerSubtitle": "Expire dans {time}",
+  "@paymentRequestBannerSubtitle": {
+    "placeholders": {
+      "time": { "type": "String" }
+    }
+  },
+
+  "paymentRequestBannerSubtitleWithOthers": "Expire dans {time} · {count, plural, one{1 autre} other{{count} autres}}",
+  "@paymentRequestBannerSubtitleWithOthers": {
+    "placeholders": {
+      "time": { "type": "String" },
+      "count": { "type": "int" }
+    }
+  },
+
+  "paymentRequestBannerRequesterLine": "{name} vous demande",
+  "@paymentRequestBannerRequesterLine": {
+    "placeholders": {
+      "name": { "type": "String" }
+    }
+  },
+
+  "expiresInLabel": "Expire dans",
+
+  "viewOthersRequests": "{count, plural, one{Voir 1 autre demande} other{Voir les {count} autres demandes}}",
+  "@viewOthersRequests": {
+    "placeholders": {
+      "count": { "type": "int" }
+    }
+  },
+
+  "reject": "Refuser",
+
+  "paymentRequestsInboxTitle": "Demandes de paiement",
+
+  "emptyPaymentRequestsTitle": "Aucune demande en attente",
+  "emptyPaymentRequestsBody": "Les demandes de paiement que vous recevez apparaîtront ici.",
+
+  "rejectConfirmTitle": "Refuser cette demande ?",
+  "rejectConfirmBody": "{name} ne recevra pas de paiement de votre part.",
+  "@rejectConfirmBody": {
+    "placeholders": {
+      "name": { "type": "String" }
+    }
+  },
+
+  "cancel": "Annuler",
+  "confirmPaymentButton": "Confirmer le paiement",
+  "paymentRequestScreenTitle": "Demande de paiement",
+
+  "paymentRequestScreenRequesterLine": "{name} vous demande",
+  "@paymentRequestScreenRequesterLine": {
+    "placeholders": {
+      "name": { "type": "String" }
+    }
+  },
+
+  "paymentRequestExpiredSnack": "Cette demande de paiement a expiré.",
+  "wrongPinError": "Code PIN incorrect.",
+  "genericError": "Une erreur est survenue. Réessayez.",
+  "close": "Fermer",
+  "paymentRequestScreenTitle": "Demande de paiement",
+
+  "paymentRequestScreenRequesterLine": "{name} vous demande",
+  "@paymentRequestScreenRequesterLine": {
+    "placeholders": {
+      "name": { "type": "String" }
+    }
+  },
+  "securedByPinLabel": "Paiement sécurisé par code PIN",
+  "requestsFromLabel": "vous demande",
+  "referenceLabel": "Référence",
+  "expiresInFullLabel": "Cette demande expire dans",
+  "rejectRequestButton": "Refuser la demande",
+  "expiresInLabelInline": "Expire dans {time}",
+  "@expiresInLabelInline": {
+    "placeholders": { "time": { "type": "String" } }
+  },
+  "noFeesApplied": "Aucuns frais appliqués",
+  "irreversible_operation_warning": "Cette opération est irréversible une fois confirmée.",
+  "reference": "Référence",
+  "auto_redirect_home": "Retour automatique à l'accueil",
+  "cannot_add_self_beneficiary": "C'est votre propre numéro. Vous ne pouvez pas vous ajouter comme bénéficiaire.",
+  "use_withdrawal_instead": "Utilisez plutôt un retrait.",
+  "add_this_contact": "Ajouter ce contact",
+
+  "quickPayment": "Paiement rapide",
+  "@quickPayment": {},
+
+  "qr_scan_unified_description": "Scannez le QR code d'un bénéficiaire pour lui envoyer de l'argent.",
+  "@qr_scan_unified_description": {},
+
+  "qr_scan_align_hint": "Alignez le code dans le cadre",
+  "@qr_scan_align_hint": {},
+
+  "qr_scan_security_hint": "Vérifiez toujours l'identité du destinataire avant de confirmer votre envoi.",
+  "@qr_scan_security_hint": {},
+
+  "unrecognized_qr_title": "Code non reconnu",
+  "@unrecognized_qr_title": {},
+
+  "unrecognized_qr_description": "Ce code ne correspond à aucun format CaurisPay valide. Assurez-vous qu'il provient bien de l'application.",
+  "@unrecognized_qr_description": {},
+  "choose_from_gallery": "Choisir depuis la galerie",
+  "@choose_from_gallery": {},
+  "request_expired_title": "Demande expirée",
+  "@request_expired_title": {},
+
+  "request_expired_message": "Le délai pour confirmer cette demande est dépassé.",
+  "@request_expired_message": {},
+
+  "ok": "OK",
+  "@ok": {},
+
+  "delete_account": "Supprimer le compte",
+  "@delete_account": {},
+
+  "delete_account_confirm_title": "Supprimer votre compte ?",
+  "@delete_account_confirm_title": {},
+
+  "delete_account_confirm_message": "Votre compte sera définitivement supprimé dans 14 jours. Toutes vos données et votre historique de transactions seront effacés et ne pourront pas être récupérés. Vous pouvez annuler dans les 14 jours.",
+  "@delete_account_confirm_message": {},
+
+  "delete_account_confirm_button": "Oui, supprimer mon compte",
+  "@delete_account_confirm_button": {},
+
+  "deletion_pending_banner": "Votre compte sera supprimé le {date}.",
+  "@deletion_pending_banner": {
+    "placeholders": {
+      "date": { "type": "String" }
+    }
+  },
+
+  "cancel_deletion": "Annuler la suppression",
+  "@cancel_deletion": {},
+
+  "cancel_deletion_confirm_title": "Annuler la suppression du compte ?",
+  "@cancel_deletion_confirm_title": {},
+
+  "cancel_deletion_confirm_message": "Votre compte restera actif et la demande de suppression sera annulée.",
+  "@cancel_deletion_confirm_message": {},
+
+  "cancel_deletion_confirm_button": "Oui, conserver mon compte",
+  "@cancel_deletion_confirm_button": {},
+
+  "deletion_request_success": "Votre demande de suppression a été soumise. Vous avez 14 jours pour l'annuler.",
+  "@deletion_request_success": {},
+
+  "deletion_cancel_success": "La suppression de votre compte a été annulée.",
+  "@deletion_cancel_success": {}
+}
+
